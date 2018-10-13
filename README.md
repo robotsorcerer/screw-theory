@@ -8,6 +8,12 @@ I do hope you enjoy them as much as I enjoyed attending the tutorials.
 
 + [IROS2018 Tutorials webpage](https://www.iros2018.org/tutorials)
 
++ Author: Cecilia Laschi and Egidio Falotico
+  - [Control Strategies for Soft Robotic Manipulators](/Laschi_Oct1.pdf)
+
++ Author: Cecilia Laschi and Marcello Calisti Falotico
+  - [Soft robot bodies: a control challenge or a solution for robot control](/Laschi_Oct5.pdf)
+
 + Author: Peter Corke
   -  [Screw Theory for Robotics using MATLAB®](/corke.pdf)
 
@@ -26,7 +32,7 @@ I do hope you enjoy them as much as I enjoyed attending the tutorials.
   -  [A compelling computational approach of screw theory for robotics - Part II](/pardos_ii.pdf)
 
 + Authors: Stanislao Grazioso, Giuseppe Di Gironimo, Bruno Siciliano
-  -  [Modeling of soft robots using product of exponentiasls](/siciliano.pdf)
+  -  [Modeling of soft robots using product of exponentials](/siciliano.pdf)
 
 + Authors: Elias Cueto, Davis Gonzalez and Iciar Alfaro
   - [Proper Generalized Decomposition](/decomp.pdf)
